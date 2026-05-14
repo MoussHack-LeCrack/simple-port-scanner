@@ -46,6 +46,8 @@ Aucune librairie a installer.
 
 ## Utilisation
 
+![image](demofinal.gif)
+
 ```bash
 python scanner.py --target scanme.nmap.org --ports 22,80,443
 ```
